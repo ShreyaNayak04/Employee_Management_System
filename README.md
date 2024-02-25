@@ -1,6 +1,7 @@
 Basic HRMS (Human Resource Management System) with functionalities such as employee management, attendance tracking, etc
 
 To run the application
+
 Run the following commands in your terminal:
 
 1. pip install Django
